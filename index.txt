@@ -1,2 +1,3 @@
 hello from feature-2
 new line
+new
